@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<GameResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://1.234.11.116/proof_xml/user_interface.xsd">
+  <UserInterface Version="1.0.1">
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_UserInfo_MoneyBoard</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/InfoBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>11</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_UserInfo_GemBoard</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/GemBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>11</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_UserInfo_BellBoard</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/BellBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>11</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center" />
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_UserInfo_MoneyIcon</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/Money</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>13</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_UserInfo_GemIcon</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/Gem</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>13</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_UserInfo_BellIcon</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/Bell</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>13</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_UserInfo_MoneyAdd</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/AddButton</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>15</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_BUTTON>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_UserInfo_GemAdd</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/AddButton</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>15</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_BUTTON>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_UserInfo_BellAdd</Name>
+      <MainPath>Mobile/EZGUI/Main/UserInfo/AddButton</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>15</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+    </EZGUI_BUTTON>
+    <EZGUI_SPRITE_TEXT>
+      <Name>SPRITE_UserInfo_MoneyNum</Name>
+      <MainPath>SpriteText/SpriteText24</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>12</z>
+      </Position>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+      <Anchor Anchor="Middle_Center" />
+      <Alignment Alignment="Center"></Alignment>
+      <Text>0</Text>
+    </EZGUI_SPRITE_TEXT>
+    <EZGUI_SPRITE_TEXT>
+      <Name>SPRITE_UserInfo_GemNum</Name>
+      <MainPath>SpriteText/SpriteText24</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>12</z>
+      </Position>
+      <BasePosType BasePosType="Upper_Center"></BasePosType>
+      <Anchor Anchor="Middle_Center"></Anchor>
+      <Alignment Alignment="Center"></Alignment>
+      <Text>0</Text>
+    </EZGUI_SPRITE_TEXT>
+    <EZGUI_SPRITE_TEXT>
+      <Name>SPRITE_UserInfo_BellNum</Name>
+      <MainPath>SpriteText/SpriteText24</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>12</z>
+      </Position>
+      <BasePosType BasePosType="Upper_Center" />
+      <Anchor Anchor="Middle_Center"></Anchor>
+      <Alignment Alignment="Center"></Alignment>
+      <Text>0</Text>
+    </EZGUI_SPRITE_TEXT>
+  </UserInterface>
+</GameResource>

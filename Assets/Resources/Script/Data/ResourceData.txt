@@ -1,0 +1,6 @@
+
+//﻿resource_name	resource_path
+0 RESOURCE_PASSIVE	Mobile/EZGUI/Game/Buttons/Button_Refresh
+1 RESOURCE_FOUR	Mobile/EZGUI/Game/Buttons/Button_Four
+2 RESOURCE_REFRESH	Mobile/EZGUI/Game/Buttons/Button_Refresh
+3 RESOURCE_BOMB	Mobile/EZGUI/Game/Buttons/Button_Bomb

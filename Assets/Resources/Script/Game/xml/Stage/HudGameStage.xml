@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<GameResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://1.234.11.116/proof_xml/user_interface.xsd">
+  <UserInterface Version="1.0.1">
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_GameStage_GameBoard</Name>
+      <MainPath>[height]/Mobile/EZGUI/Game/Board/GameBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Left"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_GameStage_SelectButton</Name>
+      <MainPath>Mobile/EZGUI/Game/Texture_Game_On</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>3</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Bottom_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_GameStage_Advice</Name>
+      <MainPath>Mobile/EZGUI/Game/Buttons/Button_Advice</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>5</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Left"></BasePosType>
+    </EZGUI_BUTTON>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_GameStage_Pause</Name>
+      <MainPath>Mobile/EZGUI/Game/Buttons/Button_Pause</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>5</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Right"></BasePosType>
+    </EZGUI_BUTTON>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_GameStage_Play</Name>
+      <MainPath>Mobile/EZGUI/Game/Buttons/Button_Play</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>5</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Upper_Right"></BasePosType>
+    </EZGUI_BUTTON>
+    <EZGUI_SPRITE_TEXT>
+      <Name>SPRITE_GameStage_Item0</Name>
+      <MainPath>SpriteText/SpriteText24</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>7</z>
+      </Position>
+      <BasePosType BasePosType="Bottom_Center"></BasePosType>
+      <Anchor Anchor="Middle_Center" />
+      <Alignment Alignment="Center"></Alignment>
+      <Text>0</Text>
+    </EZGUI_SPRITE_TEXT>
+    <EZGUI_SPRITE_TEXT>
+      <Name>SPRITE_GameStage_Item1</Name>
+      <MainPath>SpriteText/SpriteText24</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>7</z>
+      </Position>
+      <BasePosType BasePosType="Bottom_Center"></BasePosType>
+      <Anchor Anchor="Middle_Center" />
+      <Alignment Alignment="Center"></Alignment>
+      <Text>0</Text>
+    </EZGUI_SPRITE_TEXT>
+    <EZGUI_SPRITE_TEXT>
+      <Name>SPRITE_GameStage_Item2</Name>
+      <MainPath>SpriteText/SpriteText24</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>7</z>
+      </Position>
+      <BasePosType BasePosType="Bottom_Center"></BasePosType>
+      <Anchor Anchor="Middle_Center" />
+      <Alignment Alignment="Center"></Alignment>
+      <Text>0</Text>
+    </EZGUI_SPRITE_TEXT>
+  </UserInterface>
+</GameResource>

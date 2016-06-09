@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<GameResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://1.234.11.116/proof_xml/user_interface.xsd">
+  <UserInterface Version="1.0.1">
+    <EZGUI_SCROLL_LIST>
+      <Name>Scroll_PopupFrame</Name>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>22</z>
+      </Position>
+      <BasePosType BasePosType="Middle_Center" />
+      <TextureSize>
+        <x>500</x>
+        <y>500</y>
+      </TextureSize>
+      <Orientation Orientation="VERTICAL" />
+      <Direction Direction="TtoB_LtoR" />
+      <Alignment Alignment="Center" />
+    </EZGUI_SCROLL_LIST>
+  </UserInterface>
+</GameResource>

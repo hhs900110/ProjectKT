@@ -1,0 +1,27 @@
+//Anchor(Upper_Center, Middle_Center, Lower_Center & Left, RIght)
+//Allignment(Center, Left, Right)
+//BasePos(0-TopLeft,1-TopRight,2-BottomCenter,3-MiddleCenter, 4-BottomRight, 5-BottomLeft, 6 TopCenter)
+
+EZGUI_BUTTON_OUTLINE	BUTTON_KittySetting_NowTurnType	Mobile/Test/ProgressBar_Back	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center	Left	Confirm	Bottom_Right
+EZGUI_BUTTON_OUTLINE	BUTTON_KittySetting_NowTurnSpeed	Mobile/Test/ProgressBar_Back	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center	Left	Confirm	Bottom_Right
+EZGUI_BUTTON_OUTLINE	BUTTON_KittySetting_NowMapSize	Mobile/Test/ProgressBar_Back	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center	Left	Confirm	Bottom_Right
+
+
+
+EZGUI_OUTLINE_TEXT	OUTLINE_KittySetting_TurnSpeed	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center		Left		Speed		Bottom_Left
+EZTEXT_FIELD	TEXTFIELD_KittySetting_TurnSpeed	Mobile/Test/TextFieldBase		0	0	10			0	0	374	65	Bottom_Left
+
+EZGUI_OUTLINE_TEXT	OUTLINE_KittySetting_TurnType	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center		Left		Turn		Bottom_Left
+EZTEXT_FIELD	TEXTFIELD_KittySetting_TurnType	Mobile/Test/TextFieldBase		0	0	10			0	0	374	65	Bottom_Left
+
+EZGUI_BUTTON_OUTLINE	BUTTON_KittySetting_Apply	Mobile/Test/Rectangle_Base	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center	Left	Confirm	Bottom_Right
+
+
+
+EZGUI_OUTLINE_TEXT	OUTLINE_KittySetting_MapX	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center		Left		MapX		Bottom_Left
+EZTEXT_FIELD	TEXTFIELD_KittySetting_MapX	Mobile/Test/TextFieldBase		0	0	10			0	0	374	65	Bottom_Left
+
+EZGUI_OUTLINE_TEXT	OUTLINE_KittySetting_MapY	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center	Left	MapY	Bottom_Left
+EZTEXT_FIELD	TEXTFIELD_KittySetting_MapY	Mobile/Test/TextFieldBase		0	0	10			0	0	374	65	Bottom_Left
+
+EZGUI_BUTTON_OUTLINE	BUTTON_KittySetting_NewGame	Mobile/Test/Rectangle_Base	SpriteText/SpriteText24	SpriteText/SpriteText_stroke24	0	0	10	Upper_Center	Left	Confirm	Bottom_Right

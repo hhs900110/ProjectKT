@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<GameResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://1.234.11.116/proof_xml/user_interface.xsd">
+  <UserInterface Version="1.0.1">
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_ReadyStage_BackBoard</Name>
+      <MainPath>[height]/Mobile/EZGUI/Main/Board/MainBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_ReadyStage_ReadyBoard</Name>
+      <MainPath>[height]/Mobile/EZGUI/Ready/Board/ReadyBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>10</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_ReadyStage_ItemBoard</Name>
+      <MainPath>Mobile/EZGUI/Ready/Board/ItemBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>11</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center" />
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_ReadyStage_CharBoard</Name>
+      <MainPath>Mobile/EZGUI/Ready/Board/CharBoard</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>11</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center" />
+    </EZGUI_TEXTURE>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_ReadyStage_BlockPosChange</Name>
+      <MainPath>Mobile/EZGUI/Ready/Buttons/BlockPosChange</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>15</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center" />
+    </EZGUI_BUTTON>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_ReadyStage_BlockSetChange</Name>
+      <MainPath>Mobile/EZGUI/Ready/Buttons/BlockSetChange</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>15</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center" />
+    </EZGUI_BUTTON>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_ReadyStage_GameStart</Name>
+      <MainPath>Mobile/EZGUI/Main/Buttons/Button_Start</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>13</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center"></BasePosType>
+    </EZGUI_BUTTON>
+    <EZGUI_BUTTON>
+      <Name>BUTTON_ReadyStage_Exit</Name>
+      <MainPath>Mobile/EZGUI/Popup/Buttons/Button_Close</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>15</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center" />
+    </EZGUI_BUTTON>
+  </UserInterface>
+</GameResource>

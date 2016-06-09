@@ -1,0 +1,5 @@
+//﻿item_idx	item_name	item_info	item_raster	item_price_gold	item_price_cash	item_type_idx	item_use_time	item_area_x	item_area_y	item_use_value	item_is_active
+100010	1000010	1100010	RESOURCE_PASSIVE	0	0	1010	20	0	0	0	0
+100020	1000020	1100020	RESOURCE_FOUR	0	0	1020	5	3	3	1	1
+100030	1000030	1100030	RESOURCE_REFRESH	0	0	1030	5	3	3	1	1
+100040	1000040	1100040	RESOURCE_BOMB	0	0	1040	5	3	3	1	1

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<GameResource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://1.234.11.116/proof_xml/user_interface.xsd">
+  <UserInterface Version="1.0.1">
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_ProgressCircle_Filter</Name>
+      <MainPath>Mobile/EZGUI/Joint/Board/PopupFilter</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>70</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_ProgressCircle_Image</Name>
+      <MainPath>Mobile/EZGUI/Loading/LoadingImage</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>71</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+    <EZGUI_TEXTURE>
+      <Name>TEXTURE_ProgressCircle_Circle</Name>
+      <MainPath>Mobile/EZGUI/Loading/LoadingCircle</MainPath>
+      <Position>
+        <x>0</x>
+        <y>0</y>
+        <z>72</z>
+      </Position>
+      <Coordinate>
+        <Left>0</Left>
+        <Top>0</Top>
+        <Right>1</Right>
+        <Bottom>1</Bottom>
+      </Coordinate>
+      <BasePosType BasePosType="Middle_Center"></BasePosType>
+    </EZGUI_TEXTURE>
+  </UserInterface>
+</GameResource>
